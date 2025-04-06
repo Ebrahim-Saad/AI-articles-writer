@@ -28,7 +28,7 @@ AI Articles Writer is a tool that automates the process of writing articles usin
    in the `.env` file you should add your own api keys for tavily and together, or adjust the file as you need if you wand to change the model used.
 
    **Note:** the model used is a free model together.ai offers, it's just for demo purpose, you have to adjust the model used later.
-   don't forget to remove any delay's added to ensure not exceeding the api request limit for the free model.
+   don't forget to remove any delay's added to ensure not exceeding the api request limit for the free model to benefit from parellel writing.
 
 2. **Activate the virtual environment** (optional in Poetry 1.2+):
    ```bash
